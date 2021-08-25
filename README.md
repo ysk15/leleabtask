@@ -1,6 +1,6 @@
 # leleabtask
 
-A new Flutter project.
+Task for LeLab
 
 ## Getting Started
 
